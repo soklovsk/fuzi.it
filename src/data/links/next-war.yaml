@@ -1,0 +1,5 @@
+title: NextWar
+description: >-
+  Advanced web application which has both classic website features and custom account management panel which extends the in game UI with additional features that could not be implemented in game due to the project specific. Website utilizes Astro Islands architecture. Custom authentication, permissions, account management, layouts, forms and so on.
+url: https://nextwar.cc/
+order: 5
